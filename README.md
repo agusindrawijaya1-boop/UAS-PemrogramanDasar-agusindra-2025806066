@@ -99,7 +99,16 @@ di browser
 }
 
 
-## 📸 Screenshot Aplikasi
+## Screenshot Aplikasi
 
-![Halaman Utama](screenshot/localhost.png)
+### Database
+![Database](screenshot/database.png)
+
+### Halaman Aplikasi
+![Hasil](screenshot/hasil.png)
+
+### Localhost
+![Localhost](screenshot/localhost.png)
+
+### Source Code
 ![Source Code](screenshot/source-code.png)
