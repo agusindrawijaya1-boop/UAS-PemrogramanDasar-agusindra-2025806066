@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gadget Inventory</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>📱 Gadget Inventory</h1>
+
+<div>
+  <input type="text" id="name" placeholder="Nama Gadget">
+  <input type="text" id="brand" placeholder="Brand">
+  <input type="number" id="stock" placeholder="Stock">
+  <button onclick="addData()">Tambah</button>
+</div>
+
+<h2>Daftar Gadget</h2>
+<table border="1" cellpadding="10">
+  <thead>
+    <tr>
+      <th>Nama</th>
+      <th>Brand</th>
+      <th>Stock</th>
+      <th>Aksi</th>
+    </tr>
+  </thead>
+  <tbody id="table-body"></tbody>
+</table>
+
+<script src="js/script.js"></script>
+</body>
+</html>
