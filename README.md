@@ -100,5 +100,7 @@ di browser
 
 ## 📸 Screenshot Aplikasi
 
-![Halaman Utama](screenshot/hasil.png)
-![Database](screenshot/database.png)
+## 📸 Screenshot Aplikasi
+
+![Halaman Utama](screenshot/localhost.png)
+![Source Code](screenshot/source code.png)
