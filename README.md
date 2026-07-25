@@ -100,5 +100,5 @@ di browser
 
 ## 📸 Screenshot Aplikasi
 
-![Halaman Utama](screenshots/hasil.png)
-![Database](screenshots/database.png)
+![Halaman Utama](screenshot/hasil.png)
+![Database](screenshot/database.png)
