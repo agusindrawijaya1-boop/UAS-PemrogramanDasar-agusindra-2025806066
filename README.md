@@ -98,9 +98,8 @@ di browser
   "category_id": 1
 }
 
-## 📸 Screenshot Aplikasi
 
 ## 📸 Screenshot Aplikasi
 
 ![Halaman Utama](screenshot/localhost.png)
-![Source Code](screenshot/source code.png)
+![Source Code](screenshot/source-code.png)
