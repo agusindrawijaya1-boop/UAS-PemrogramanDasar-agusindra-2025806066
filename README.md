@@ -51,7 +51,7 @@ gadget-inventory/
 ## ⚙️ Cara Menjalankan Aplikasi
 
 ### 1. Clone Repository
-git clone https://github.com/agusindrawijaya1-boop/UAS-PemrogramanDasar-agusindra-2025806066
+ https://github.com/agusindrawijaya1-boop/UAS-PemrogramanDasar-agusindra-2025806066
 cd UAS-PemrogramanDasar-agusindra-2025806066
 
 ---
@@ -101,5 +101,5 @@ di browser
 }
 ## 📸 Screenshot Aplikasi
 
-![Halaman Utama](hasil.png)
-![Database](database.png)
+![Halaman Utama](screenshot.png/hasil.png)
+![Database](screenshot.png/database.png)
