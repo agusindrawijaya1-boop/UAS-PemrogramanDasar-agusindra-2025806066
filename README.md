@@ -90,8 +90,6 @@ di browser
 
 ---
 
-## 🧪 Contoh Request (POST)
-
 ```json
 {
   "name": "iPhone 15 Pro Max",
@@ -99,7 +97,8 @@ di browser
   "stock": 5,
   "category_id": 1
 }
+
 ## 📸 Screenshot Aplikasi
 
-![Halaman Utama](screenshot.png/hasil.png)
-![Database](screenshot.png/database.png)
+![Halaman Utama](screenshots/hasil.png)
+![Database](screenshots/database.png)
